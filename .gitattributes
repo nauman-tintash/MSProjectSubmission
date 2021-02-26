@@ -1,0 +1,1 @@
+trained_models/sif_transcoder_shapenet_ldif/1-hparams/train/model.ckpt-123250.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
